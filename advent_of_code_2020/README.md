@@ -6,7 +6,7 @@ Coding challenges for everyday of December up to December 25th
 
 ---
 
-## Day 1:
+## Day 1: Report Repair
 
 #### Part 1:  
 ```
@@ -30,5 +30,7 @@ ANSWER: 165026160 (390 + 324 + 1306)
 
 #### Part 1:  
 ```
-
+Use "passwords.csv"
+How many passwords are valid according to their policies?
+ANSWER: 
 ```
